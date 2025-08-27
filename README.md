@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi there! I'm CHF-arch
 
-<!--
-**CHF-arch/CHF-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Game Developer from Greece, passionate about bringing ideas to life through code. Currently, I'm diving deep into **Godot Engine** for game development and strengthening my skills in **JavaScript** for various projects.
 
-Here are some ideas to get you started:
+When I'm not coding, you can find me exploring new technologies or getting lost in a good game!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm currently working on:
+-   **Game Development with Godot:** Building engaging experiences. (e.g., `War-Born` project)
+-   **JavaScript Projects:** Expanding my web development expertise. (e.g., `ToDoList`)
+
+---
+
+### 🛠️ Technologies & Tools
+
+Here are some of the technologies I'm working with:
+
+<p align="left">
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://godotengine.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHF-arch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="CHF-arch's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
+
+---
+
+### 📫 Get in touch!
+
+You can reach me at: xronicestathiadis@hotmail.com
