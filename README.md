@@ -8,7 +8,7 @@ When I'm not coding, you can find me exploring new technologies or getting lost 
 
 ### 🚀 What I'm currently working on:
 -   **Game Development with Godot:** Building engaging experiences. (e.g., `War-Born` project)
--   **JavaScript Projects:** Expanding my web development expertise. (e.g., `ToDoList`)
+-   **JavaScript Projects:** Expanding my web development expertise. (e.g., `VitalSense`)
 
 ---
 
