@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm CHF-arch
+# 👋 Hi there! I'm CHF-arch aka Chronis
 
 I'm an aspiring Game Developer from Greece, passionate about bringing ideas to life through code. Currently, I'm diving deep into **Godot Engine** for game development and strengthening my skills in **JavaScript** for various projects.
 
