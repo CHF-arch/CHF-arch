@@ -7,8 +7,11 @@ When I'm not coding, you can find me exploring new technologies or getting lost 
 ---
 
 ### 🚀 What I'm currently working on:
--   **Game Development with Godot:** Building engaging experiences. (e.g., `War-Born` project)
--   **JavaScript Projects:** Expanding my web development expertise. (e.g., `VitalSense`)
+
+- **Game Development with Godot:** Building engaging experiences.
+  [![War-Born](https://img.shields.io/badge/Project-War--Born-informational?style=for-the-badge&logo=github)](https://github.com/CHF-arch/War-Born)
+- **JavaScript Projects:** Expanding my web development expertise.
+  [![VitalSense](https://img.shields.io/badge/Project-VitalSense-success?style=for-the-badge&logo=github)](https://github.com/CHF-arch/VitalSense)
 
 ---
 
@@ -48,12 +51,14 @@ Here are some of the technologies I'm working with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHF-arch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="CHF-arch's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&layout=compact&theme=dark" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CHF-arch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="CHF-arch's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 📫 Get in touch!
 
-You can reach me at: xronicestathiadis@hotmail.com
+<p align="left">
+<a href="mailto:xronicestathiadis@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email me"/></a>
+</p>
