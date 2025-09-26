@@ -32,6 +32,9 @@ Here are some of the technologies I'm working with:
   <a href="https://godotengine.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -46,13 +49,12 @@ Here are some of the technologies I'm working with:
   </a>
 </p>
 
----
+--- 
 
 ### 📊 My GitHub Stats
 
 <p align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CHF-arch&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="CHF-arch's GitHub stats"/>  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&layout=compact&theme=dark" alt="Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
