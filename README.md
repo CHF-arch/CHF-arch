@@ -6,8 +6,6 @@ When I'm not coding, you can find me exploring new technologies or getting lost 
 
 ---
 
----
-
 ### 🛠️ Technologies & Tools
 
 Here are some of the technologies I'm working with:
