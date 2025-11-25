@@ -6,13 +6,6 @@ When I'm not coding, you can find me exploring new technologies or getting lost 
 
 ---
 
-### 🚀 What I'm currently working on:
-
-- **Game Development with Godot:** Building engaging experiences.
-  [![War-Born](https://img.shields.io/badge/Project-War--Born-informational?style=for-the-badge&logo=github)](https://github.com/CHF-arch/War-Born)
-- **JavaScript Projects:** Expanding my web development expertise.
-  [![VitalSense](https://img.shields.io/badge/Project-VitalSense-success?style=for-the-badge&logo=github)](https://github.com/CHF-arch/VitalSense)
-
 ---
 
 ### 🛠️ Technologies & Tools
