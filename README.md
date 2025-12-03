@@ -55,8 +55,6 @@ Here are some of the technologies I'm working with:
 ![](https://github-readme-stats.vercel.app/api?username=CHF-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CHF-arch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CHF-arch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
