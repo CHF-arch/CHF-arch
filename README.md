@@ -1,8 +1,14 @@
 # 👋 Hi there! I'm CHF-arch aka Chronis
 
-I'm an aspiring Game Developer from Greece, passionate about bringing ideas to life through code. Currently, I'm diving deep into **Godot Engine** for game development and strengthening my skills in **JavaScript** for various projects.
+I am a Developer from Greece, passionate about bringing ideas to life through code. I focus on building robust applications across the full stack.
 
-When I'm not coding, you can find me exploring new technologies or getting lost in a good game!
+My expertise includes:
+
+Frontend: JavaScript for creating dynamic and engaging web experiences.
+
+Backend: C# for building reliable, enterprise-level services, and Python (leveraging FastAPI) for developing high-performance, modern APIs.
+
+When I'm not coding, you can find me exploring new technologies and diving deeper into system architecture.
 
 ---
 
@@ -20,11 +26,14 @@ Here are some of the technologies I'm working with:
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://godotengine.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
-  </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -42,19 +51,16 @@ Here are some of the technologies I'm working with:
 
 --- 
 
-### 📊 My GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CHF-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CHF-arch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHF-arch&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <!-- <img src="https://placehold.co/640x80/0f172a/ffffff/png?text=Top+Languages+currently+unavailable" alt="Top Languages fallback" /> -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=CHF-arch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <!-- <img src="https://placehold.co/640x120/0f172a/ffffff/png?text=GitHub+Stats+currently+unavailable" alt="GitHub Stats fallback" /> -->
-</p>
 
 ---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CHF-arch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 📫 Get in touch!
 
