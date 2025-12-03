@@ -55,15 +55,12 @@ Here are some of the technologies I'm working with:
 ![](https://github-readme-stats.vercel.app/api?username=CHF-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CHF-arch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CHF-arch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 📫 Get in touch!
+---
 
+### 📫 Get in touch!
 <p align="left">
 <a href="mailto:xronicestathiadis@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email me"/></a>
 </p>
