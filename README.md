@@ -45,8 +45,13 @@ Here are some of the technologies I'm working with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&theme=tokyonight" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHF-arch&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://placehold.co/640x80/0f172a/ffffff/png?text=Top+Languages+currently+unavailable" alt="Top Languages fallback" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CHF-arch&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://placehold.co/640x120/0f172a/ffffff/png?text=GitHub+Stats+currently+unavailable" alt="GitHub Stats fallback" />
 </p>
 
 ---
