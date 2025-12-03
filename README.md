@@ -45,7 +45,8 @@ Here are some of the technologies I'm working with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&layout=compact&theme=dark" alt="Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHF-arch&theme=tokyonight" alt="Top Languages"/>
+
 </p>
 
 ---
