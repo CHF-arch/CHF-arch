@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm CHF-arch aka Chronis
+# 👋 Hi there! I'm Chronis
 
 I am a Developer from Greece, passionate about bringing ideas to life through code. I focus on building robust applications across the full stack.
 
