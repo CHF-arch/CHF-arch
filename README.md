@@ -52,8 +52,7 @@ Here are some of the technologies I'm working with:
 --- 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChronisEfstathiadis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChronisEfstathiadis&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ChronisEfstathiadis&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChronisEfstathiadis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
