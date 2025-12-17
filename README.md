@@ -1,17 +1,3 @@
-# 👋 Hi there! I'm Chronis
-
-I am a Developer from Greece, passionate about bringing ideas to life through code. I focus on building robust applications across the full stack.
-
-My expertise includes:
-
-Frontend: JavaScript for creating dynamic and engaging web experiences.
-
-Backend: C# for building reliable, enterprise-level services, and Python (leveraging FastAPI) for developing high-performance, modern APIs.
-
-When I'm not coding, you can find me exploring new technologies and diving deeper into system architecture.
-
----
-
 ### 🛠️ Technologies & Tools
 
 Here are some of the technologies I'm working with:
